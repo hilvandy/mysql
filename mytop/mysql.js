@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         国家中小学智慧教育平台|自动刷
+// @name         
 // @namespace    http://tampermonkey.net/
 // @version      2024/8/3
 // @author       yygdz1921
